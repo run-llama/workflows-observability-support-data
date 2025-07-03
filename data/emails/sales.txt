@@ -1,0 +1,26 @@
+From: margot.beltran@northwaveventures.com  
+To: support@yourbestsoftware.com  
+Subject: Request for Detailed Pricing, Licensing, and Integration Scope for Enterprise Evaluation
+
+Dear Sales Team,
+
+I’m reaching out on behalf of Northwave Ventures, where we’re currently evaluating Your Best Software (YBS) for deployment across our analytics, data governance, and workflow orchestration teams.
+
+To move forward with our internal review, we would appreciate your help clarifying the following items:
+
+1. Detailed breakdown of enterprise pricing tiers — including any differences between per-seat, per-instance, and usage-based licensing models.
+2. Clarification on what’s included in the “Advanced Automation Suite” mentioned on your Solutions page. Specifically, we’re interested in whether multi-layered rule chaining, conditional triggers, and external API actions are covered under standard pricing.
+3. Guidance on available onboarding packages and professional services — such as deployment acceleration, custom workflow migration, and integration advisory.
+4. List of integrations currently supported out-of-the-box, especially those relevant to our stack (e.g., Databricks, Snowflake, Azure Data Factory, and ServiceNow).
+5. Confirmation on whether your current SLA guarantees uptime at or above 99.9%, and whether support tiers (Standard vs. Premier) differ in responsiveness for critical escalations.
+
+We are aiming to finalize our shortlist by the end of next week, so a prompt response would be greatly appreciated. We’re especially interested in any pricing flexibility for teams over 100 users and scenarios with hybrid cloud/on-prem deployments.
+
+Thank you in advance for your assistance, and I look forward to your reply.
+
+Best regards,  
+Margot Beltran  
+Director of Platform Strategy  
+Northwave Ventures  
+margot.beltran@northwaveventures.com  
+(312) 555-7814

@@ -1,0 +1,28 @@
+From: claude.tanaka@gmail.com  
+To: support@yourbestsoftware.com  
+Subject: Critical Integration Issue with Multi-Instance Deployment and API Timeout Handling
+
+Dear Support Team,
+
+I hope you're doing well.
+
+I’m currently deploying Your Best Software (YBS) in a multi-instance environment across three regional data centers, and I’ve run into several complex technical issues that require urgent attention:
+
+1. API Timeout Failures During Load Balancing  
+   Under high traffic conditions, the YBS API intermittently exceeds the 15-second timeout threshold, resulting in repeated 504 Gateway Timeout errors. System resources appear stable, so I suspect internal queuing or asynchronous batch processing may be contributing to the delay.
+
+2. Data Sync Conflicts Between Instances  
+   We’ve configured metadata replication across zones using the built-in sync engine. However, simultaneous write operations are causing inconsistent overwrites. The expected priority-based merge logic seems to be ignored, and instead, we’re seeing last-write-wins behavior.
+
+3. Intermittent Webhook Failures  
+   Webhooks for object state changes are not consistently firing. Approximately 20% of expected notifications never reach downstream services, and there is no indication of retries after transient HTTP errors (e.g., 503). Can you clarify whether automatic retries are built in, or if additional queue management is necessary?
+
+These issues are blocking critical integration milestones for an upcoming production launch. I’d greatly appreciate any guidance or configuration changes you can recommend to resolve them.
+
+Looking forward to your assistance.
+
+Best regards,  
+Claude Tanaka  
+Lead Systems Architect  
+claude.tanaka@gmail.com  
+(415) 555-9238
